@@ -1,0 +1,7 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000001.1	254280	254717	-	aac(6')-Iaa_1	1-438/438	===============	0/0	100.00	100.00	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000052.1	223	882	+	catA1_1	1-660/660	===============	0/0	100.00	99.85	resfinder	V00622	catA1	Chloramphenicol
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000056.1	2003	3208	+	tet(B)_2	1-1206/1206	===============	0/0	100.00	100.00	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000057.1	170	1030	+	aac(3)-IId_1	1-861/861	===============	0/0	100.00	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000063.1	1	804	-	ant(3'')-Ia_1	168-971/972	..=============	0/0	82.72	99.63	resfinder	X02340	ant(3'')-Ia	Streptomycin
+GCA_000468255.1_ST4848_v1_genomic.fasta	AUXE01000063.1	904	1734	-	blaOXA-1_1	1-831/831	===============	0/0	100.00	100.00	resfinder	HQ170510	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam

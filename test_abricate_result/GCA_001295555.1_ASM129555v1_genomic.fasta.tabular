@@ -1,0 +1,9 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000004.1	145296	145733	-	aac(6')-Iaa_1	1-438/438	===============	0/0	100.00	100.00	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000034.1	28379	29181	+	aph(3'')-Ib_2	2-804/804	===============	0/0	99.88	100.00	resfinder	AF024602	aph(3'')-Ib	Streptomycin
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000034.1	29181	30017	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000048.1	4988	5909	-	mph(A)_2	1-921/921	========/======	1/1	100.00	99.67	resfinder	U36578	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000051.1	1139	2344	-	tet(B)_2	1-1206/1206	===============	0/0	100.00	100.00	resfinder	AF326777	tet(B)	Doxycycline;Tetracycline;Minocycline
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000059.1	88	1347	-	cmlA1_1	1-1260/1260	===============	0/0	100.00	99.76	resfinder	M64556	cmlA1	Chloramphenicol
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000059.1	1609	2410	-	ant(3'')-Ia_1	171-972/972	..=============	0/0	82.51	99.75	resfinder	X02340	ant(3'')-Ia	Streptomycin
+GCA_001295555.1_ASM129555v1_genomic.fasta	JRZW01000059.1	2458	2991	-	ant(2'')-Ia_1	1-534/534	===============	0/0	100.00	100.00	resfinder	X04555	ant(2'')-Ia	Gentamicin;Tobramycin

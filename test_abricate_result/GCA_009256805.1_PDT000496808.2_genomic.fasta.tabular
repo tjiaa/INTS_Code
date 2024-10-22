@@ -1,0 +1,31 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000001.1	451221	451658	+	aac(6')-Iaa_1	1-438/438	===============	0/0	100.00	98.63	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000017.1	13388	14179	-	sul3_2	1-792/792	===============	0/0	100.00	100.00	resfinder	AJ459418	sul3	Sulfamethoxazole
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000019.1	329	1144	-	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000021.1	3180	4040	+	blaTEM-1B_1	1-861/861	===============	0/0	100.00	100.00	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000022.1	2413	3659	-	tet(A)_6	1-1247/1275	===============	0/0	97.80	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000022.1	4920	5756	-	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000024.1	3599	4255	-	qnrS1_1	1-657/657	===============	0/0	100.00	99.85	resfinder	AB187515	qnrS1	Ciprofloxacin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000025.1	803	1678	+	blaCTX-M-55_1	1-876/876	===============	0/0	100.00	100.00	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000026.1	264	1124	+	aac(3)-IId_1	1-861/861	===============	0/0	100.00	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000029.1	876	2089	-	floR_2	1-1214/1215	===============	0/0	99.92	98.11	resfinder	AF118107	floR	Chloramphenicol;Florfenicol
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000031.1	519	1486	+	ant(3'')-Ia_1	1-972/972	========/======	2/4	99.59	97.43	resfinder	X02340	ant(3'')-Ia	Streptomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000031.1	1618	2439	+	lnu(F)_1	1-822/822	===============	0/0	100.00	100.00	resfinder	EU118119	lnu(F)	Lincomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000033.1	612	1101	-	ARR-3_4	54-543/543	.==============	0/0	90.24	99.80	resfinder	FM207631	ARR-3	
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000033.1	1175	1657	-	dfrA14_5	1-483/483	===============	0/0	100.00	99.59	resfinder	DQ388123	dfrA14	Trimethoprim
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000034.1	239	1054	-	aph(3')-Ia_3	1-816/816	===============	0/0	100.00	99.88	resfinder	EF015636	aph(3')-Ia	
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000040.1	2019	2810	+	sul3_2	1-792/792	===============	0/0	100.00	100.00	resfinder	AJ459418	sul3	Sulfamethoxazole
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000041.1	2334	3194	+	blaTEM-1B_1	1-861/861	===============	0/0	100.00	100.00	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000042.1	469	1125	+	qnrS1_1	1-657/657	===============	0/0	100.00	99.85	resfinder	AB187515	qnrS1	Ciprofloxacin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000043.1	265	1125	+	aac(3)-IId_1	1-861/861	===============	0/0	100.00	99.88	resfinder	EU022314	aac(3)-IId	Gentamicin;Tobramycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000044.1	561	1807	+	tet(A)_6	1-1247/1275	===============	0/0	97.80	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000045.1	897	2110	+	floR_2	1-1214/1215	===============	0/0	99.92	98.11	resfinder	AF118107	floR	Chloramphenicol;Florfenicol
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000046.1	353	1189	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000047.1	7	798	+	aadA22_1	1-792/792	===============	0/0	100.00	100.00	resfinder	AM261837	aadA22	Streptomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000047.1	930	1751	+	lnu(F)_1	1-822/822	===============	0/0	100.00	100.00	resfinder	EU118119	lnu(F)	Lincomycin
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000048.1	561	1835	+	tet(A)_6	1-1275/1275	===============	0/0	100.00	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000049.1	8	490	+	dfrA14_5	1-483/483	===============	0/0	100.00	99.59	resfinder	DQ388123	dfrA14	Trimethoprim
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000049.1	564	1053	+	ARR-3_4	54-543/543	.==============	0/0	90.24	99.80	resfinder	FM207631	ARR-3	
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000050.1	485	1300	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000051.1	123	938	+	aph(3')-Ia_3	1-816/816	===============	0/0	100.00	99.88	resfinder	EF015636	aph(3')-Ia	
+GCA_009256805.1_PDT000496808.2_genomic.fasta	DAAALG010000052.1	47	922	+	blaCTX-M-55_1	1-876/876	===============	0/0	100.00	100.00	resfinder	DQ810789	blaCTX-M-55	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin

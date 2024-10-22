@@ -1,0 +1,13 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_chromosome	4331436	4331873	-	aac(6')-Iaa_1	1-438/438	===============	0/0	100.00	99.54	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	29672	30487	+	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	30548	31351	+	aph(3'')-Ib_5	1-804/804	===============	0/0	100.00	100.00	resfinder	AF321551	aph(3'')-Ib	Streptomycin
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	31351	32187	+	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	33448	34722	+	tet(A)_6	1-1275/1275	===============	0/0	100.00	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	35323	36536	-	floR_2	1-1214/1215	===============	0/0	99.92	98.19	resfinder	AF118107	floR	Chloramphenicol;Florfenicol
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	47948	48508	+	dfrA23_1	1-561/561	===============	0/0	100.00	100.00	resfinder	AJ746361	dfrA23	
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	51646	52512	-	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	54062	55201	+	blaDHA-1_1	1-1140/1140	===============	0/0	100.00	100.00	resfinder	Y16410	blaDHA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefotaxime;Cefoxitin;Ceftazidime;Piperacillin;Piperacillin+Tazobactam;Ticarcillin;Ticarcillin+Clavulanic_acid
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	59324	59968	+	qnrB4_1	1-645/645	===============	0/0	100.00	100.00	resfinder	DQ303921	qnrB4	Ciprofloxacin
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	61230	62051	-	lnu(F)_1	1-822/822	===============	0/0	100.00	100.00	resfinder	EU118119	lnu(F)	Lincomycin
+GCA_003231095.1_ASM323109v1_genomic.fasta	R16.0676_plasmid_pR16.0676_90k	62183	62995	-	aadA2_1	7-819/819	===============	0/0	99.27	99.88	resfinder	NC_010870	aadA2	Streptomycin
