@@ -1,0 +1,7 @@
+ID_integron	ID_replicon	element	pos_beg	pos_end	strand	evalue	type_elt	annotation	model	type	default	distance_2attC	considered_topology
+integron_01	R16.0676_plasmid_pR16.0676_90k	R16.0676_plasmid_pR16.0676_90k_73	60373	61077	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	R16.0676_plasmid_pR16.0676_90k	attc_001	61185	61242	-1	0.081	attC	attC	attc_4	complete	Yes	NA	lin
+integron_01	R16.0676_plasmid_pR16.0676_90k	R16.0676_plasmid_pR16.0676_90k_74	61230	62051	-1	NA	protein	protein	NA	complete	Yes	NA	lin
+integron_01	R16.0676_plasmid_pR16.0676_90k	attc_002	62122	62181	-1	1.4e-06	attC	attC	attc_4	complete	Yes	880.0	lin
+integron_01	R16.0676_plasmid_pR16.0676_90k	R16.0676_plasmid_pR16.0676_90k_75	62183	62962	-1	2.1999999999999995e-166	protein	ANT3	RF0027	complete	Yes	NA	lin
+integron_01	R16.0676_plasmid_pR16.0676_90k	R16.0676_plasmid_pR16.0676_90k_76	63120	64079	1	1.0000000000000001e-24	protein	intI	intersection_tyr_intI	complete	Yes	NA	lin
