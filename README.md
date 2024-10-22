@@ -29,6 +29,7 @@ The final output will be a summary file (resistance_genes_on_integrons_and_trans
 
 Requirements
 Python 3.8+
+Python package numpy, pandas are needed
 abricate (for resistance gene detection)
 BACANT (for locating integrons and transposons)
 
