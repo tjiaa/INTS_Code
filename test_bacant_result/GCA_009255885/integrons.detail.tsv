@@ -1,0 +1,17 @@
+ID_integron	ID_replicon	element	pos_beg	pos_end	strand	evalue	type_elt	annotation	model	type	default	distance_2attC	considered_topology
+integron_01	DAAALD010000053.1	DAAALD010000053.1_1	88	1029	1	2.899999999999999e-170	protein	ANT3	RF0027	CALIN	Yes	NA	lin
+integron_01	DAAALD010000053.1	attc_001	1031	1090	1	3.3e-08	attC	attC	attc_4	CALIN	Yes	NA	lin
+integron_01	DAAALD010000053.1	DAAALD010000053.1_2	1161	1982	1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000053.1	attc_002	1970	2027	1	0.0019	attC	attC	attc_4	CALIN	Yes	880.0	lin
+integron_01	DAAALD010000054.1	attc_001	492	605	-1	0.00019	attC	attC	attc_4	CALIN	Yes	NA	lin
+integron_01	DAAALD010000054.1	DAAALD010000054.1_2	612	1064	-1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000054.1	attc_002	1095	1180	-1	0.00022	attC	attC	attc_4	CALIN	Yes	490.0	lin
+integron_01	DAAALD010000054.1	DAAALD010000054.1_3	1175	1657	-1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000074.1	DAAALD010000074.1_1	1	798	1	1.5999999999999996e-170	protein	ANT3	RF0027	CALIN	Yes	NA	lin
+integron_01	DAAALD010000074.1	attc_001	800	859	1	2.9e-08	attC	attC	attc_4	CALIN	Yes	NA	lin
+integron_01	DAAALD010000074.1	DAAALD010000074.1_2	930	1751	1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000074.1	attc_002	1739	1796	1	0.0016	attC	attC	attc_4	CALIN	Yes	880.0	lin
+integron_01	DAAALD010000080.1	DAAALD010000080.1_1	2	490	1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000080.1	attc_001	485	570	1	0.00015	attC	attC	attc_4	CALIN	Yes	NA	lin
+integron_01	DAAALD010000080.1	DAAALD010000080.1_2	601	1053	1	NA	protein	protein	NA	CALIN	Yes	NA	lin
+integron_01	DAAALD010000080.1	attc_002	1060	1173	1	0.00013000000000000002	attC	attC	attc_4	CALIN	Yes	490.0	lin
