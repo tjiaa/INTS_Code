@@ -1,5 +1,6 @@
 # INTS_Code
 Resistance Gene Location Analysis
+
 This repository provides a three-step pipeline to identify resistance genes located on integrons and transposons within bacterial genomes using the tools abricate and BACANT, followed by a custom integration step. The overall workflow consists of running abricate for resistance gene detection, BACANT for locating integrons and transposons, and a custom integration script to pinpoint the location of resistance genes on mobile genetic elements.
 
 Overview of Analysis Workflow
@@ -25,7 +26,6 @@ Open the Jupyter Notebook file locate_resistance_genes_on_integrons_and_transpos
 Ensure that the paths to abricate_output.txt and the BACANT_output/ directory are correctly specified in the notebook.
 Run each cell sequentially to process the data and identify resistance genes located on integrons and transposons.
 The final output will be a summary file (resistance_genes_on_integrons_and_transposons.csv) indicating which resistance genes are located on integrons and transposons.
-File Structure
 
 Requirements
 Python 3.8+
